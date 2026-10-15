@@ -1,1 +1,1 @@
-Check out the [CyberEd Website]((https://www.cyber-ed.net/)!
+Check out the [CyberEd Website](https://www.cyber-ed.net/)!
